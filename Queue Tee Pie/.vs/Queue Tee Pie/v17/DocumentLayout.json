@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\D242U18\\Documents\\GitHub\\queue-tee-pie-Narwaffle22\\Queue Tee Pie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64C985FF-A3D3-4124-96C2-D9DEDEDBEAA2}|Queue Tee Pie\\Queue Tee Pie.vcxproj|C:\\Users\\D242U18\\Documents\\GitHub\\queue-tee-pie-Narwaffle22\\Queue Tee Pie\\Queue Tee Pie\\Queue Tee Pie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64C985FF-A3D3-4124-96C2-D9DEDEDBEAA2}|Queue Tee Pie\\Queue Tee Pie.vcxproj|solutionrelative:Queue Tee Pie\\Queue Tee Pie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Queue Tee Pie.cpp",
+              "DocumentMoniker": "C:\\Users\\D242U18\\Documents\\GitHub\\queue-tee-pie-Narwaffle22\\Queue Tee Pie\\Queue Tee Pie\\Queue Tee Pie.cpp",
+              "RelativeDocumentMoniker": "Queue Tee Pie\\Queue Tee Pie.cpp",
+              "ToolTip": "C:\\Users\\D242U18\\Documents\\GitHub\\queue-tee-pie-Narwaffle22\\Queue Tee Pie\\Queue Tee Pie\\Queue Tee Pie.cpp",
+              "RelativeToolTip": "Queue Tee Pie\\Queue Tee Pie.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T22:17:59.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
